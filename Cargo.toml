@@ -3,6 +3,7 @@ name = "pdf-core-14-font-afms"
 version = "0.1.0"
 edition = "2021"
 license = "MIT AND APAFML"
+description = "AFM Files for the Core 14 PDF Fonts"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
