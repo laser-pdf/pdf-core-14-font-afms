@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT AND APAFML"
 description = "AFM Files for the Core 14 PDF Fonts"
+repository = "https://github.com/laser-pdf/pdf-core-14-font-afms"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
