@@ -1,6 +1,6 @@
 [package]
 name = "pdf-core-14-font-afms"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "MIT AND APAFML"
 description = "AFM Files for the Core 14 PDF Fonts"
